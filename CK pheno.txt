@@ -1,0 +1,43 @@
+	inflame	tumor	progression
+101287 2001	tt	mcc	p
+101287 2004	ti	mcc	p
+101287 2005	ti	mcc	p
+101287 2006	tt	mcc	p
+101287 2007	ti	mcc	p
+101287 2008	ti	mcc	p
+101287 2012		skin	
+101287 2013	ti	mcc	p
+101287 2014	ti	mcc	p
+10233 4001	tt	mcc	p
+10233 4002	tt	mcc	p
+10233 4003	tt	mcc	p
+10233 4004	ti	mcc	p
+10233 4005	ti	mcc	p
+10233 4009	ti	mcc	p
+10233 4010	ti	mcc	p
+10233 4013		skin	
+10233 4015	ti	mcc	p
+10233 4016	ti	mcc	p
+10233 4017	ti	mcc	p
+10233 4019	ti	mcc	p
+10233 4020	ti	mcc	p
+107466 2003	ti	mcc	np
+107466 2004	ti	mcc	np
+107466 2006	ti	mcc	np
+107466 2007	ti	mcc	np
+107466 2008	ti	mcc	np
+107466 2010	ti	mcc	np
+107466 2011	ti	mcc	np
+107466 2013	ti	mcc	np
+107466 2014	ti	mcc	np
+107466 2018	ti	mcc	np
+107466 2020	ti	mcc	np
+107466 2021	ti	mcc	np
+107466 2022	ti	mcc	np
+98016 2001	tt	mcc	np
+98016 2002	tt	mcc	np
+98016 2005	tt	mcc	np
+98016 2006	ti	mcc	np
+98016 2007	ti	mcc	np
+98016 2016	ti	mcc	np
+98016 2017		skin	
